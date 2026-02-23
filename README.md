@@ -22,5 +22,12 @@ You can also visualize the chromosome organization using blender.
 <br>
 .csv (coordinates.h5 --> coordinates.csv)
 <br>
+.npy also recommended
+<br>
+see the "visulization" directory.
+<br>
+<br>
+For real and more precise work pipeline, please look into the "work_pipeline" directory.
+<br>
 <br>
 Thank you!
