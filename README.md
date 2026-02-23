@@ -1,4 +1,4 @@
-# Hi-C-Toy-Modeling
+# Chromosome_Analysis_Pipeline
 Simple python code to visualize simple Hi-C features : TADs, compartments
 <br>
 Work in Progress... (last modified : 02/22/2026)
@@ -29,5 +29,7 @@ see the "visulization" directory.
 <br>
 For real and more precise work pipeline, please look into the "work_pipeline" directory.
 <br>
+(You can make Hi-C Map, P(s) plot, and gamma plot!)
 <br>
-Thank you!
+<br>
+Thank you! Please Enjoy!
